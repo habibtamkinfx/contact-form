@@ -65,9 +65,7 @@ This project was built for learning and practice purposes, including:
 
 ## 📸 Preview
 
-![Contact Form Screenshot](assets/contact-form.png)
-
----
+## ![Contact Form Screenshot](assets/preview.png)
 
 ## 🧠 What I Learned
 
