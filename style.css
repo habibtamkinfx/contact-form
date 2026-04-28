@@ -160,3 +160,16 @@ button:hover {
 .info-item span {
   color: var(--text-gray);
 }
+
+@media (max-width: 600px) {
+  .form-container {
+    padding: 25px;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  .input-group {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
